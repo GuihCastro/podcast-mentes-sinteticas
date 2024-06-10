@@ -17,6 +17,10 @@ Este projeto foi produzido como parte do Bootcamp "Santander 2024 - Fundamentos 
 - **Capa:** Criada com o Adobe Firefly.
 - **Áudio:** Produzido com o ElevenLabs.
 
+## Resultado Final
+
+- Você pode conferir o resultado final acessando o episódio gerado no [Soundcloud](https://soundcloud.com/guilherme-henrique-de-castro-24845235/podcast-mente-sintetica-horizontes-virtuais-episodio-pilotomp3)
+
 ## Objetivo
 
 Este projeto tem um caráter exclusivamente didático e foi desenvolvido para fins de aprendizado no contexto do Bootcamp "Santander 2024 - Fundamentos de I.A. para Devs".
